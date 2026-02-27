@@ -1,3 +1,4 @@
+  workflow_dispatch:
 stages:
 - stage: Build
   jobs:
